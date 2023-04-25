@@ -1,0 +1,10 @@
+KVITTONUMMER: 1
+DATUM: 2023-04-24 18:30:17
+PRODUKTER:
+- Smör: 25,00 kr
+TOTALT:                   100,00 kr
+KVITTONUMMER: 1
+DATUM: 2023-04-24 18:32:23
+PRODUKTER:
+- ägg: 1 005,00 kr
+TOTALT:                 7 035,00 kr

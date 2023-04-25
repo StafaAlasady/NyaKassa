@@ -1,0 +1,10 @@
+KVITTONUMMER: 1
+DATUM: 2023-04-20 00:08:04
+PRODUKTER:
+- Hash: 1 005,00 kr
+TOTALT:                 5 025,00 kr
+KVITTONUMMER: 1
+DATUM: 2023-04-20 00:15:32
+PRODUKTER:
+- Mjölk: 15,00 kr
+TOTALT:                    75,00 kr
